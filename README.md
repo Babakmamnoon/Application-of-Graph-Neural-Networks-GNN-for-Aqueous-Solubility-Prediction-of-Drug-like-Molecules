@@ -1,0 +1,1 @@
+# Application-of-Graph-Neural-Networks-GNN-for-Aqueous-Solubility-Prediction-of-Drug-like-Molecules
